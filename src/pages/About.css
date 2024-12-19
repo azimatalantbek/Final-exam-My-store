@@ -1,0 +1,66 @@
+.about-container {
+    padding: 20px;
+    background-color: #f0f4f7;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+.about-container h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.about-container p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+/* src/pages/Contact.css */
+.contact-container {
+    padding: 20px;
+    background-color: #f0f4f7;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+.contact-container h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.contact-container input, .contact-container textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.contact-container button {
+    background-color: #1E2A47;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* src/pages/Order.css */
+.order-container {
+    padding: 20px;
+    background-color: #f0f4f7;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+.order-container h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.order-container p {
+    font-size: 1.2rem;
+}
