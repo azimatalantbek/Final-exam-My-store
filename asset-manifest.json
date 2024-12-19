@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Final-exam-My-store/static/css/main.a617a653.css",
+    "main.js": "/Final-exam-My-store/static/js/main.5388f66a.js",
+    "static/js/488.db965d34.chunk.js": "/Final-exam-My-store/static/js/488.db965d34.chunk.js",
+    "index.html": "/Final-exam-My-store/index.html",
+    "main.a617a653.css.map": "/Final-exam-My-store/static/css/main.a617a653.css.map",
+    "main.5388f66a.js.map": "/Final-exam-My-store/static/js/main.5388f66a.js.map",
+    "488.db965d34.chunk.js.map": "/Final-exam-My-store/static/js/488.db965d34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a617a653.css",
+    "static/js/main.5388f66a.js"
+  ]
+}
